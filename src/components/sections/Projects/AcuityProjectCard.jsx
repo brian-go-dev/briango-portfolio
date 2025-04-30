@@ -1,11 +1,12 @@
 export const AcuityProjectCard = () => {
   const acuityTechStack = [
-    "Javascript",
+    "Typescript",
     "React",
-    "Jest",
-    "Next.JS",
-    "ThemeUI",
+    "MUI",
+    "Vite",
+    "Vitest",
     "GraphQL",
+    "Asynchronous Progrogramming",
   ];
 
   return (
