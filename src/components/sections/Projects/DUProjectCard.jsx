@@ -12,7 +12,7 @@ export const DUProjectCard = () => {
     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_rgba(59,130,246,0.1)] transition-all">
       <h3 className="text-xl font-bold mb-2">Digital University</h3>
       <p className="text-gray-400 mb-4">
-        provides airmen with access to modern digital learning resources to
+        Provides airmen with access to modern digital learning resources to
         build technical skills in areas like software development, data science,
         cybersecurity, and cloud computing.
       </p>
